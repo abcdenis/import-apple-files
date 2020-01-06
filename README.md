@@ -1,5 +1,5 @@
 # import-apple-files
-Bulk download all files from iPhone/iPad DCIM folder to local disk under Widows
+Bulk download all files from iPhone/iPad DCIM folder to local disk under Windows
 
 Work is based on [this script](https://github.com/dblume/list-photos-on-phone).
 
