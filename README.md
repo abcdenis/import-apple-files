@@ -10,7 +10,7 @@ To manually backup iPhone files.
 - searching for My Computer / This Computer / etc for any localization;
 - downloading files, skip existing files
 - check file size according to metadata
-- set files creation according to metadata - it helps 
+- set files creation according to metadata - it helps sorting files that do not have EXIF date inside
  
 ### This is active project now :)
 iPhone 6 that I use provide DCIM folder. 
