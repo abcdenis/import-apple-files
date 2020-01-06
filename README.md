@@ -18,7 +18,7 @@ iPhone 6 that I use provide DCIM folder.
 ## Getting Started
 
 1) Connect iPhone to Windows computer and unlock it
-2) Open iPhone DCIm folder in Explorer: Win+E -> This Computer -> iPhone's Name -> Internal Storage -> DCIM
+2) Open iPhone DCIM folder in Explorer: Win+E -> This Computer -> iPhone's Name -> Internal Storage -> DCIM
 3) For each of 100APPLE-like subfolder open it and wait for Explorer to load list of all files
 4) Run the script from IDLE or an IDE for easier clipboard access to its output, otherwise, from the DOS command line you can redirect to a file like so:
 
