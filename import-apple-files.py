@@ -246,8 +246,8 @@ class AppleFilesImporter(object):
 
     def walk_dcim_folder(self, dcim_pidl, parent):
         """
-        Iterates all the subfolders of the iPhone's DCIM directory, gathering
-        photos that need to be processed in photo_dict.
+        Iterates all the subfolders of the iPhone's DCIM directory, 
+        downloading all files.
 
         :param dcim_pidl: A PIDL for the iPhone's DCIM folder
         :param parent: The parent folder of the PIDL
@@ -268,7 +268,7 @@ class AppleFilesImporter(object):
 
     def process_photos(self, folder):
         """
-        Adds photos to photo_dict if they are newer than prev_index.
+        Download all files from specified folder
         :param folder: The PIDL of the folder to walk.
         """
         processed_count = 0
